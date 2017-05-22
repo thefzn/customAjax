@@ -1,3 +1,9 @@
+/** 
+  * @author Pedro Carrazco fzn.webdesign@gmail.com
+  * @desc this class is a shortcut to make quick Ajax calls
+  *
+*/
+
 "use strict";
 var Ajax = function(e){
 	this.method = null;
